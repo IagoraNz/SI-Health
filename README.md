@@ -76,7 +76,7 @@ Os modelos foram avaliados utilizando validação cruzada (5-fold). Abaixo um re
 📂SI-Health/
 ├── 📂 src/
 │   └── 🐍 main.ipynb      # Notebook principal com todo o código do projeto
-├── 📄requirements.txt    # Lista de dependências do projeto
+├── 📄requirements.txt     # Lista de dependências do projeto
 ├── 📝 LICENSE             # Licença de uso
 └── 📄 README.md           # Documentação do projeto
 ```
