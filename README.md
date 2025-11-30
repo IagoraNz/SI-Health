@@ -81,6 +81,17 @@ Os modelos foram avaliados utilizando validação cruzada (5-fold). Abaixo um re
 └── 📄 README.md           # Documentação do projeto
 ```
 
+## ⚠️ Avisos importantes
+
+> [!CAUTION]
+> **Uso educacional apenas:** Este projeto foi desenvolvido exclusivamente para fins acadêmicos e educacionais. NÃO deve ser utilizado para diagnósticos médicos reais ou tomada de decisões clínicas.
+
+> [!IMPORTANT]
+> **Limitações do dataset:** O conjunto de dados utilizado contém apenas 299 registros e pode não representar adequadamente a diversidade populacional. Os resultados obtidos têm limitações estatísticas e não devem ser generalizados para aplicações clínicas reais.
+
+> [!NOTE]
+> **Ética em IA na saúde:** O desenvolvimento de sistemas de inteligência artificial para aplicações médicas requer rigorosos padrões éticos, validação clínica, aprovação regulatória e supervisão profissional. Este projeto não atende a esses requisitos e serve apenas como exercício de aprendizado.
+
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
